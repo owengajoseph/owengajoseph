@@ -6,6 +6,6 @@
 
 ###
 
-<p align="left">- just an IT gut ...</p>
+<p align="left">- just an IT guy ...</p>
 
 ###
