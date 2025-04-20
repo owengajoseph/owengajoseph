@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a versatile developer with expertise in multiple progr
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
   System-level programming and performance-critical applications.
 
-### Data Science & Analysis
+### Data Analysis
 - **NumPy**  
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
   Numerical computing and efficient handling of large datasets.
@@ -37,15 +37,9 @@ Welcome to my GitHub! I'm a versatile developer with expertise in multiple progr
   Shell scripting, system administration, and development workflows.
 
 ## 📖 About Me
-I'm passionate about creating efficient, scalable solutions across web development, data science, and system programming. From crafting interactive UIs with Vue.js to analyzing datasets with Python, NumPy, and Pandas, I enjoy tackling diverse challenges. My familiarity with Linux and C/C++ complements my ability to work on low-level and high-performance projects.
-
+Just a tech
 ## 🚀 Explore My Work
 Check out my repositories to see projects ranging from data analysis scripts to front-end applications. Feel free to reach out for collaboration or to discuss ideas!
+//portfolio website comming sonn
 
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(Update with your link)*
-- [Email](mailto:your.email@example.com) *(Update with your email)*
 
----
-
-*Last updated: April 2025*
