@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a versatile developer with expertise in multiple progr
 
 - **Pandas**  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-  Data manipulation, cleaning, and analysis for data science workflows.
+  Data manipulation, cleaning, and analysis.
 
 - **Jupyter Notebook**  
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
