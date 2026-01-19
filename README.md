@@ -49,4 +49,4 @@ Just a tech
 
 ## 🚀 Explore My Work
 Check out my repositories to see projects ranging from data analysis scripts to front-end applications. Feel free to reach out for collaboration or to discuss ideas!  
-- check<https://owenga.verce.app> for my portfolio
+- check<https://owenga.vercel.app> for my portfolio
